@@ -1,0 +1,12 @@
+### Spring ###
+target/
+.mvn
+**/src/main/**/target/
+**/src/test/**/target/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+*.DS_Store
+.DS_Store
